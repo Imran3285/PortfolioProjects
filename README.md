@@ -1,6 +1,6 @@
 # AI-Powered Sales & Risk Project
 
-This is a data science project I completed as part of my internship deliverables at **Victoria Solutions**.  
+This is a data science SalesBI project I completed as part of my internship deliverables at **Victoria Solutions**.  
 The goal was to clean and analyze a raw dataset, detect outliers, visualize feature relationships, and prepare the data for predictive modeling in **sales forecasting** and **risk management**.
 
 ---
