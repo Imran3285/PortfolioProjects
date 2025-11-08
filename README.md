@@ -1,50 +1,21 @@
-# AI-Powered Sales & Risk Project
+# Objectives
 
-This is a data science SalesBI project I completed as part of my internship deliverables at **Victoria Solutions**.  
-The goal was to clean and analyze a raw dataset, detect outliers, visualize feature relationships, and prepare the data for predictive modeling in **sales forecasting** and **risk management**.
+I am a results-driven master's student in Data Science for Business with a strong statistical background. My proficiency in Python, SQL, R, and advanced BI tools helps me transform raw data into actionable business insights. I am interested in solving business problems using quantitative data, building models, and understanding the impacts, risks, and costs associated with those businesses. My experience working with machine learning enables me to automate the process of analyzing and identifying patterns in large datasets much faster and more accurately than through manual analysis. I look forward to applying my soft and hard skills in an organization that prioritizes innovation and technological growth.
 
----
+# Skills I Own
+- Interested in understanding the business objectives, its core values, what factors will influence the success of the business, and project plans..
+- Good at knowing how a business functions and key problems to solve, as misconceptions can lead to poor decision-making.
+- Ability to collect the right data by asking questions with stakeholders, browsing internet sources, reading the company's documents, and reviewing customers' feedback.
+- Experienced in manipulating raw data into a cleaned format, exploring data using SQL and Python, and verifying the data quality to make it ready to use.  
+- My previous projects in visualizing data, drawing meaningful insights, and evaluating results show my expertise in using business intelligence tools.  
+- Confident in communicating key visuals to the team and stakeholders, best for the growth of the business, and to achieve the aims.
 
-# What I Did
-- Imported and cleaned the dataset using Python (handled missing values).  
-- Detected and removed outliers using the **Interquartile Range (IQR) method**.  
-- Created data visualizations (boxplots, histograms, correlation heatmaps).  
-- Prepared a cleaned dataset ready for predictive modeling.  
-- Explained how the insights can help businesses manage risks and forecast sales better.  
+# Projects' Experience
 
----
+**LEVERAGING DATA SCIENCE TO SUPPORT GREEN TRANSITIONS**
 
-# Business Insights
-This project shows how data-driven analysis can support **business decision-making**:
+**TELECOM CUSTOMER TARGETING USING MACHINE LEARNING**
 
-- **Improved Data Quality**: By filling missing values and removing outliers, the dataset became reliable, reducing the risk of wrong forecasts.  
-- **Sales Drivers Identified**: The correlation heatmap revealed strong relationships between **marketing spend and sales**, showing that investment in campaigns leads to higher revenue.  
-- **Risk Reduction**: Outlier detection eliminated unusual or misleading data points (e.g., extreme pricing or recording errors) that could distort insights.  
-- **Inventory & Resource Planning**: Insights can help shops or companies plan stock levels and staffing during periods of high sales (i.e., seasonal peaks).  
-- **Better Strategic Decisions**: Management can now base pricing, promotions, and budget allocations on data rather than assumptions.  
+**JC PENNY PREDICTIVE ANALYSIS WITH PYTHON**
 
----
-
-# Tools Used
-- **Python** (Pandas, NumPy)  
-- **Seaborn & Matplotlib** for charts  
-- **Scikit-learn** for model preparation (future work)  
-- **Jupyter Notebook / VS Code**  
-
----
-
-# How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/sales-risk-analysis.git
-   cd sales-risk-analysis
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Place your dataset in the data/ folder. Example:
-   ```python
-   import pandas as pd
-   df = pd.read_csv("data/data.csv")
-4. Run the script or open the notebook to see the analysis and charts:
-   ```bash
-   python src/data_cleaning.py
+**NEXTVIKE CYCLE HIRE CONSULTANCY PROJECT**
