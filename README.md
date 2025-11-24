@@ -12,9 +12,17 @@ I am a results-driven master's student in Data Science for Business with a stron
 
 # Projects' Experience
 
+**NEXTBIKE CYCLE HIRE CONSULTANCY PROJECT**
+
+I am leading a cross-functional project focused on enhancing Stirling’s Nextbike cycling infrastructure to align with Scotland’s Net Zero 2045 targets. This paid project focuses on applying advanced predictive analytics to model usage trends across academic hubs and tourist hotspots, generating data-driven insights on bike demand, optimal docking-station placement, strategic budget allocation, and efficient bike redistribution based on station-level inflow and outflow patterns to support a more balanced and reliable system.
+
+**Retail Analytics and Predictive Modelling for JC Penney**
+
+I recently completed a consultancy-focused data analysis project for JC Penney, a premium American retail brand, where I used Python and data manipulation techniques to uncover insights from product, review, and customer datasets. By applying tools such as Pandas, NumPy, Matplotlib, and TextBlob, I analysed pricing structures, customer sentiments, and purchasing behaviours to support strategic decision-making and business growth. The findings highlighted that JC Penney’s core customer base is middle-aged, most products are priced under $100, premium categories like jewellery and home goods drive higher price points, and customer satisfaction remains average with ratings around 3.0–3.5. These insights informed recommendations around improving product quality, strengthening youth market engagement, refining loyalty schemes, and repositioning the brand to align with modern retail expectations.
+
 **LEVERAGING DATA SCIENCE TO SUPPORT GREEN TRANSITIONS**
 
-In this consultancy project, I used Power BI and the CRISP–DM framework to prepare, transform, and analyze transport data, evaluating the impact of electrification, bike sharing, and Low-Emission Zones (LEZs) across Scotland.
+In this dissertation project, I used Power BI and the CRISP–DM framework to gather, transform, and analyze transport data, evaluating the impact of electrification, bike sharing, and Low-Emission Zones (LEZs) across Scotland.
 The McKinsey 7-Step Framework helped me develop an issue tree and formulate hypotheses that were tested after the data evaluation.
 Found that 75% of EV charging infrastructure in Stirling uses AC-type chargers, cycling is highly seasonal and influenced by geography, and LEZs reduced pollutants by 14% within just six months, significantly contributing to decarbonization.
 I also analyzed geographical demand for each scheme using time series, geospatial, and comparative analysis, and examined current developments to propose data-driven recommendations.
@@ -22,7 +30,3 @@ I also analyzed geographical demand for each scheme using time series, geospatia
 **TELECOM CUSTOMER TARGETING USING MACHINE LEARNING**
 
 Developed a machine learning model to help a telecom company optimize marketing for a new mobile contract. Using Orange for data cleaning, model tuning, and analysis, I tested logistic regression, decision tree, and neural network algorithms — selecting the neural network for its 77.5% accuracy. The model identified key customer factors influencing purchases, enabling data-driven targeting and improved marketing efficiency.
-
-**NEXTBIKE CYCLE HIRE CONSULTANCY PROJECT**
-
-I am currently leading this data-driven project to enhance Nextbike infrastructure in Stirling, supporting Scotland’s 2045 net-zero goals. Using predictive analytics to identify cycling demand patterns, optimize station locations, and inform sustainable budget planning — finding high usage near academic and tourist areas, with peak times in late mornings and early evenings.
