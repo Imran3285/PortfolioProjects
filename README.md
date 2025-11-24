@@ -29,4 +29,4 @@ I also analyzed geographical demand for each scheme using time series, geospatia
 
 **TELECOM CUSTOMER TARGETING USING MACHINE LEARNING**
 
-Developed a machine learning model to help a telecom company optimize marketing for a new mobile contract. Using Orange for data cleaning, model tuning, and analysis, I tested logistic regression, decision tree, and neural network algorithms — selecting the neural network for its 77.5% accuracy. The model identified key customer factors influencing purchases, enabling data-driven targeting and improved marketing efficiency.
+Developed a machine learning model to help a telecom company optimize marketing for a new mobile contract. Used advanced statitics for data cleaning, model tuning, and deep insights, I tested logistic regression, decision tree, and neural network algorithms — selecting the neural network for its 77.5% accuracy. The model identified key customer factors influencing purchases, enabling data-driven targeting and improved marketing efficiency.
