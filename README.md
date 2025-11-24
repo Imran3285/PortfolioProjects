@@ -16,7 +16,7 @@ I am a results-driven master's student in Data Science for Business with a stron
 
 I am leading a cross-functional project focused on enhancing Stirling’s Nextbike cycling infrastructure to align with Scotland’s Net Zero 2045 targets. This paid project focuses on applying advanced predictive analytics to model usage trends across academic hubs and tourist hotspots, generating data-driven insights on bike demand, optimal docking-station placement, strategic budget allocation, and efficient bike redistribution based on station-level inflow and outflow patterns to support a more balanced and reliable system.
 
-**Retail Analytics and Predictive Modelling for JC Penney**
+**RETAIL ANALYTICS AND PREDICTIVE MODELLING FOR JC PENNY**
 
 I recently completed a consultancy-focused data analysis project for JC Penney, a premium American retail brand, where I used Python and data manipulation techniques to uncover insights from product, review, and customer datasets. By applying tools such as Pandas, NumPy, Matplotlib, and TextBlob, I analysed pricing structures, customer sentiments, and purchasing behaviours to support strategic decision-making and business growth. The findings highlighted that JC Penney’s core customer base is middle-aged, most products are priced under $100, premium categories like jewellery and home goods drive higher price points, and customer satisfaction remains average with ratings around 3.0–3.5. These insights informed recommendations around improving product quality, strengthening youth market engagement, refining loyalty schemes, and repositioning the brand to align with modern retail expectations.
 
