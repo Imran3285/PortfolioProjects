@@ -1,20 +1,21 @@
 # Objectives
 
-I am a results-driven master's student in Data Science for Business with a strong statistical background. My proficiency in Python, SQL, R, and advanced BI tools helps me transform raw data into actionable business insights. I am interested in solving business problems using quantitative data, buidling models, and understanding the impacts, risks, and costs associated with those businesses. My experience working with statistical projects enables me to automate the process of analyzing and identifying patterns in large datasets much faster and more accurately than through manual analysis. I look forward to applying my data analytics skills in an organization that prioritizes innovation and efficient business growth.
+I am a results-driven master’s student in Data Science for Business with a strong statistical foundation. Skilled in Python, SQL, R, and advanced BI tools, I transform raw data into actionable business insights. I am passionate about solving real-world problems through quantitative analysis, building predictive models, and understanding the risks, impacts, and costs that influence business decisions. My experience across data science and analytics projects has enabled me to automate analysis workflows, identify patterns in large datasets, and deliver insights more quickly and accurately than manual methods. I am eager to apply my data manipulation and analytical skills in an organisation that values innovation and sustainable business growth.
 
 # Skills I Own
-- Interested in understanding the business objectives, its core values, what factors will influence the success of the business, and project plans..
-- Good at knowing how a business functions and key problems to solve, as misconceptions can lead to poor decision-making.
-- Ability to collect the right data by asking questions with stakeholders, browsing internet sources, reading the company's documents, and reviewing customers' feedback.
-- Experienced in manipulating raw data into a cleaned format, exploring data using SQL and Python, and verifying the data quality to make it ready to use.
-- My previous projects in visualizing data, drawing meaningful insights, and evaluating results show my expertise in using data-centric intelligence tools.  
-- Confident in communicating key visuals to the team and stakeholders, best for the effective decision making, and to achieving the aims.
+- Interested in understanding business objectives, core values, and the key factors that drive success, enabling better alignment between analytics and organisational goals.
+- Strong at analysing how a business functions and identifying critical problems to solve, recognising that misconceptions can lead to poor decisions.
+- Skilled in gathering the right data by engaging with stakeholders, researching online sources, reviewing company documents, and analysing customer feedback.
+- Experienced in transforming raw data into clean, structured datasets, performing exploratory analysis using SQL and Excel, and ensuring data quality and reliability.
+- Enjoy working with Python to conduct in-depth analysis, automate workflows, and build efficient analytical models to support data-driven decision-making.
+- Demonstrated ability through previous projects to visualise data effectively, extract meaningful insights, and evaluate results using data-focused tools.  
+- Confident in communicating insights and visualisations to teams and stakeholders to support clear understanding, better decisions, and successful project outcomes.
 
 # Projects' Experience
 
 **NEXTBIKE CYCLE HIRE CONSULTANCY PROJECT**
 
-I am leading a cross-functional project focused on enhancing Stirling’s Nextbike cycling infrastructure to align with Scotland’s Net Zero 2045 targets. This paid project focuses on applying advanced predictive analytics to model usage trends across academic hubs and tourist hotspots, generating data-driven insights on bike demand, optimal docking-station placement, strategic budget allocation, and efficient bike redistribution based on station-level inflow and outflow patterns to support a more balanced and reliable system.
+I am leading a cross-academic project aimed at strengthening Stirling’s Nextbike cycling infrastructure in support of Scotland’s Net Zero 2045 goals. This paid project involves analysing over 150,000 trip records across five years to uncover usage patterns around university zones, residential areas, and tourist hotspots. I model station-level shortages and surpluses using inflow–outflow dynamics and am developing a K-Means–based redistribution strategy to guide optimal bike rebalancing, docking-station placement, and resource allocation. My analysis identified the university zone as consistently bike-deficient, with surplus availability in Bridge of Allan during off-peak hours. I am also planning to implement the EAST behavioural framework, in collaboration with Stirling Council and Santander Bikes, to increase public engagement and improve system reliability.
 
 **RETAIL ANALYTICS AND PREDICTIVE MODELLING FOR JC PENNY**
 
