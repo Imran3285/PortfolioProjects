@@ -1,33 +1,144 @@
 # Objectives
 
-I am a results-driven master’s student in Data Science for Business with a strong statistical foundation. Skilled in Python, SQL, R, and advanced BI tools, I transform raw data into actionable business insights. I am passionate about solving real-world problems through quantitative analysis, building predictive models, and understanding the risks, impacts, and costs that influence business decisions. My experience across data science and analytics projects has enabled me to automate analysis workflows, identify patterns in large datasets, and deliver insights more quickly and accurately than manual methods. I am eager to apply my data manipulation and analytical skills in an organisation that values innovation and sustainable business growth.
+I am a results-driven MSc Data Science for Business graduate with a strong Electrical Engineering foundation and experience delivering consultancy-led analytics projects across transport, retail, and commercial strategy.
+
+I specialise in transforming raw, complex datasets into actionable business insights using Python, SQL, R, and Business Intelligence tools. My work combines statistical modelling, machine learning, forecasting (Prophet & SARIMA), and structured problem-solving frameworks such as CRISP–DM and the McKinsey 7-Step approach.
+
+Through academic, consultancy, and leadership roles, I have:
+
+- Built time-series forecasting models to optimise workforce and operational planning
+
+- Delivered £2,500+ projected monthly revenue improvements through data-driven strategy
+
+- Demonstrated £11m ROI in public infrastructure through mobility analytics
+
+- Designed predictive and segmentation models identifying $2M+ revenue opportunities
+
+I am passionate about solving real-world business and sustainability challenges through quantitative analysis, predictive modelling, and structured decision-making. I am seeking opportunities in Data Analytics, Business Intelligence, or Data Science where innovation and measurable impact are valued.
 
 # Skills I Own
-- Interested in understanding business objectives, core values, and the key factors that drive success, enabling better alignment between analytics and organisational goals.
-- Strong at analysing how a business functions and identifying critical problems to solve, recognising that misconceptions can lead to poor decisions.
-- Skilled in gathering the right data by engaging with stakeholders, researching online sources, reviewing company documents, and analysing customer feedback.
-- Experienced in transforming raw data into clean, structured datasets, performing exploratory analysis using SQL and Excel, and ensuring data quality and reliability.
-- Enjoy working with Python to conduct in-depth analysis, automate workflows, and build efficient analytical models to support data-driven decision-making.
-- Demonstrated ability through previous projects to visualise data effectively, extract meaningful insights, and evaluate results using data-focused tools.  
-- Confident in communicating insights and visualisations to teams and stakeholders to support clear understanding, better decisions, and successful project outcomes.
+Business & Analytical Thinking
+
+- Strong understanding of business objectives, KPIs, and value drivers to align analytics with organisational strategy.
+
+- Skilled in problem structuring using frameworks (CRISP–DM, McKinsey 7-Step).
+
+- Ability to identify root causes, validate assumptions, and prevent data-driven misconceptions.
+
+- Experienced in stakeholder engagement to gather requirements and translate business needs into analytical solutions.
+
+Data Analytics & Modelling
+
+- Advanced data cleaning, transformation, and EDA using Python, SQL, and R.
+
+- Time-series forecasting using Prophet & SARIMA.
+
+- Predictive modelling and machine learning (Logistic Regression, Decision Trees, Neural Networks, K-Means).
+
+- KPI development and performance analytics.
+
+- Strong understanding of data governance and structured reporting.
+
+Business Intelligence & Visualisation
+
+- Power BI dashboard development for executive-level reporting.
+
+- Workflow automation and data pipeline structuring.
+
+- Clear and impactful data storytelling for senior stakeholders.
+
+- Experience presenting insights to councils, governance bodies, and commercial teams.
+
+Technical Stack
+
+Languages: Python, SQL/MySQL, R, C++
+Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn
+Forecasting: Prophet, SARIMA
+Tools: Power BI, Excel (Advanced), Git, Azure, Notion, CI/CD
+Other: KPI Design, Performance Metrics, Statistical Analysis.
 
 # Projects' Experience
 
 **NEXTBIKE CYCLE HIRE CONSULTANCY PROJECT**
 
-I am leading a cross-academic project aimed at strengthening Stirling’s Nextbike cycling infrastructure in support of Scotland’s Net Zero 2045 goals. This paid project involves analysing over 150,000 trip records across five years to uncover usage patterns around university zones, residential areas, and tourist hotspots. I model station-level shortages and surpluses using inflow–outflow dynamics and am developing a K-Mean based redistribution strategy to guide optimal bike rebalancing, docking-station placement, and resource allocation. My analysis identified the university zone as consistently bike-deficient, with surplus availability in Bridge of Allan during off-peak hours. I am also planning to implement the EAST behavioural framework, in collaboration with Stirling Council and Santander Bikes, to increase public engagement and improve system reliability.
+Led an award-winning analytics consultancy project analysing 140,000+ bike-sharing trips across Stirling.
 
-**RETAIL ANALYTICS AND PREDICTIVE MODELLING FOR JC PENNY**
+- Applied inflow–outflow modelling to detect station-level shortages and surpluses.
 
-I recently completed a consultancy-focused data analysis project for JC Penney, a premium American retail brand, where I used Python and data manipulation techniques to uncover insights from product, review, and customer datasets. By applying tools such as Pandas, NumPy, Matplotlib, and TextBlob, I analysed pricing structures, customer sentiments, and purchasing behaviours to support strategic decision-making and business growth. The findings highlighted that JC Penney’s core customer base is middle-aged, most products are priced under $100, premium categories like jewellery and home goods drive higher price points, and customer satisfaction remains average with ratings around 3.0–3.5. These insights informed recommendations around improving product quality, strengthening youth market engagement, refining loyalty schemes, and repositioning the brand to align with modern retail expectations.
+- Segmented geographical zones and identified consistent university-area deficits.
 
-**LEVERAGING DATA SCIENCE TO SUPPORT GREEN TRANSITIONS**
+- Designed a low-cost redistribution strategy using K-Means clustering.
 
-In this dissertation project, I used Power BI and the CRISP–DM framework to gather, transform, and analyze transport data, evaluating the impact of electrification, bike sharing, and Low-Emission Zones (LEZs) across Scotland.
-The McKinsey 7-Step Framework helped me develop an issue tree and formulate hypotheses that were tested after the data evaluation.
-Found that 75% of EV charging infrastructure in Stirling uses AC-type chargers, cycling is highly seasonal and influenced by geography, and LEZs reduced pollutants by 14% within just six months, significantly contributing to decarbonization.
-I also analyzed geographical demand for each scheme using time series, geospatial, and comparative analysis, and examined current developments to propose data-driven recommendations.
+- Applied the EAST behavioural framework to improve public engagement.
+
+- Demonstrated £11m ROI potential for Stirling Council’s Active Travel infrastructure.
+
+- Delivered Power BI dashboards and policy recommendations to senior stakeholders.
+
+**RETAIL ANALYTICS AND PREDICTIVE MODELLING – JC PENNEY**
+
+Led a multi-dataset retail analytics project focused on pricing optimisation, sentiment intelligence, and customer segmentation.
+
+- Analysed structured and text datasets using Pandas, NumPy, Matplotlib, and TextBlob.
+
+- Identified a Gen Z market gap representing a $2M+ revenue opportunity.
+
+- Evaluated pricing structure, customer satisfaction (3.0–3.5 average ratings), and category performance.
+
+- Delivered consultancy-style recommendations on:
+
+-- Brand repositioning
+
+-- Youth-targeting strategy
+
+-- Loyalty optimisation
+
+-- Recovery planning
+
+**LEVERAGING DATA SCIENCE TO IMPROVE TRANSPORT EFFICIENCY**
+
+Evaluated Scotland’s transport decarbonisation strategies in support of the 2045 Net Zero goal.
+
+- Applied CRISP–DM and McKinsey 7-Step frameworks.
+
+- Conducted EDA on EV infrastructure, cycling usage, and Low-Emission Zones (LEZs).
+
+- Identified:
+
+-- 75%+ AC chargers concentrated in car parks in Stirling/Perth
+
+-- Highly seasonal, student-driven cycling patterns in Edinburgh
+
+-- 14% reduction in CO₂ and NOx within 6 months of LEZ implementation in Glasgow
+
+- Delivered geospatial and time-series analysis via Power BI dashboards.
+
+- Provided data-driven policy recommendations.
 
 **TELECOM CUSTOMER TARGETING USING MACHINE LEARNING**
 
-Developed a machine learning model to help a telecom company optimize marketing for a new mobile contract. Used advanced statitics for data cleaning, model tuning, and deep insights, I tested logistic regression, decision tree, and neural network algorithms — selecting the neural network for its 77.5% accuracy. The model identified key customer factors influencing purchases, enabling data-driven targeting and improved marketing efficiency.
+Developed a predictive model to optimise marketing for a telecom mobile contract.
+
+- Performed statistical cleaning, feature engineering, and model tuning.
+
+- Compared Logistic Regression, Decision Trees, and Neural Networks.
+
+- Selected Neural Network model achieving 77.5% accuracy.
+
+- Identified key customer drivers influencing purchase probability.
+
+- Enabled data-driven targeting and improved marketing efficiency.
+
+**Professional Focus**
+
+I am particularly interested in:
+
+- Data Analytics & Business Intelligence
+
+- Commercial & Revenue Forecasting
+
+- Transport & Sustainability Analytics
+
+- Predictive Modelling for Strategic Decision-Making
+
+- Data-Driven Public Policy
