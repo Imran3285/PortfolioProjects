@@ -51,11 +51,11 @@ Business Intelligence & Visualisation
 
 Technical Stack
 
-Languages: Python, SQL/MySQL, R, C++
-Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn
-Forecasting: Prophet, SARIMA
-Tools: Power BI, Excel (Advanced), Git, Azure, Notion, CI/CD
-Other: KPI Design, Performance Metrics, Statistical Analysis.
+- Languages: Python, SQL/MySQL, R, C++
+- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn
+- Forecasting: Prophet, SARIMA
+- Tools: Power BI, Excel (Advanced), Git, Azure, Notion, CI/CD
+- Other: KPI Design, Performance Metrics, Statistical Analysis.
 
 # Projects' Experience
 
@@ -87,13 +87,13 @@ Led a multi-dataset retail analytics project focused on pricing optimisation, se
 
 - Delivered consultancy-style recommendations on:
 
--- Brand repositioning
+  - Brand repositioning
 
--- Youth-targeting strategy
+  - Youth-targeting strategy
 
--- Loyalty optimisation
+  - Loyalty optimisation
 
--- Recovery planning
+  - Recovery planning
 
 **LEVERAGING DATA SCIENCE TO IMPROVE TRANSPORT EFFICIENCY**
 
@@ -105,11 +105,11 @@ Evaluated Scotland’s transport decarbonisation strategies in support of the 20
 
 - Identified:
 
--- 75%+ AC chargers concentrated in car parks in Stirling/Perth
+  - 75%+ AC chargers concentrated in car parks in Stirling/Perth
 
--- Highly seasonal, student-driven cycling patterns in Edinburgh
+  - Highly seasonal, student-driven cycling patterns in Edinburgh
 
--- 14% reduction in CO₂ and NOx within 6 months of LEZ implementation in Glasgow
+  - 14% reduction in CO₂ and NOx within 6 months of LEZ implementation in Glasgow
 
 - Delivered geospatial and time-series analysis via Power BI dashboards.
 
