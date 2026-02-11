@@ -17,7 +17,8 @@ Through academic, consultancy, and leadership roles, I have:
 I am passionate about solving real-world business and sustainability challenges through quantitative analysis, predictive modelling, and structured decision-making. I am seeking opportunities in Data Analytics, Business Intelligence, or Data Science where innovation and measurable impact are valued.
 
 # Skills I Own
-Business & Analytical Thinking
+
+**Business & Analytical Thinking**
 
 - Strong understanding of business objectives, KPIs, and value drivers to align analytics with organisational strategy.
 
@@ -27,7 +28,7 @@ Business & Analytical Thinking
 
 - Experienced in stakeholder engagement to gather requirements and translate business needs into analytical solutions.
 
-Data Analytics & Modelling
+**Data Analytics & Modelling**
 
 - Advanced data cleaning, transformation, and EDA using Python, SQL, and R.
 
@@ -39,7 +40,7 @@ Data Analytics & Modelling
 
 - Strong understanding of data governance and structured reporting.
 
-Business Intelligence & Visualisation
+**Business Intelligence & Visualisation**
 
 - Power BI dashboard development for executive-level reporting.
 
@@ -49,7 +50,7 @@ Business Intelligence & Visualisation
 
 - Experience presenting insights to councils, governance bodies, and commercial teams.
 
-Technical Stack
+**Technical Stack**
 
 - Languages: Python, SQL/MySQL, R, C++
 - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn
