@@ -18,7 +18,7 @@ I am passionate about solving real-world business and sustainability challenges 
 
 # Skills I Own
 
-**Business & Analytical Thinking**
+**BUSINESS & ANALYTICAL THINKING**
 
 - Strong understanding of business objectives, KPIs, and value drivers to align analytics with organisational strategy.
 
@@ -28,7 +28,7 @@ I am passionate about solving real-world business and sustainability challenges 
 
 - Experienced in stakeholder engagement to gather requirements and translate business needs into analytical solutions.
 
-**Data Analytics & Modelling**
+**DATA ANALYTICS & MODELLING**
 
 - Advanced data cleaning, transformation, and EDA using Python, SQL, and R.
 
@@ -40,7 +40,7 @@ I am passionate about solving real-world business and sustainability challenges 
 
 - Strong understanding of data governance and structured reporting.
 
-**Business Intelligence & Visualisation**
+**BUSINESS INTELLIGENCE & VISUALIZATION**
 
 - Power BI dashboard development for executive-level reporting.
 
@@ -50,7 +50,7 @@ I am passionate about solving real-world business and sustainability challenges 
 
 - Experience presenting insights to councils, governance bodies, and commercial teams.
 
-**Technical Stack**
+**TECHNICAL STACK**
 
 - Languages: Python, SQL/MySQL, R, C++
 - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn
@@ -130,7 +130,7 @@ Developed a predictive model to optimise marketing for a telecom mobile contract
 
 - Enabled data-driven targeting and improved marketing efficiency.
 
-**Professional Focus**
+**PROFESSIONAL FOCUS**
 
 I am particularly interested in:
 
